@@ -1,4 +1,4 @@
-def reverse_each_word(reverse)
-  reverse.Array.new 
+def reverse_each_word
+  
   
 end 
